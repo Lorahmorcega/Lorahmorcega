@@ -4,4 +4,4 @@
 - Estou trabalhando em projetos de **JavaScript** e **HTML** no **P5JS** 🎀
 - Para qualquer dúvida ou contato, me envie um email: **0000109931637sp@al.educacao.sp.gov.br**
 
- ![](https://media1.tenor.com/m/Kx0Ea8OtqA4AAAAd/elvira.gif)
+ ![](https://media1.tenor.com/m/S_vS3J0Nz1oAAAAd/hey-hi.gif)
